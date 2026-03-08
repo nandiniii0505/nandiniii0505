@@ -1,4 +1,4 @@
-# Hi 👋 I'm Nandini Mishra
+# Hi 👋 I'm Nandini 
 
 🎓 B.Tech Student  
 💻 Learning Java, DSA and Web Development  
