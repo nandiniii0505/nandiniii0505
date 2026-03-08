@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Nandini Mishra
 
-<!--
-**nandiniii0505/nandiniii0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Learning Java, DSA and Web Development  
+🌱 Currently improving coding skills  
 
-Here are some ideas to get you started:
+## 🚀 Languages I Use
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/nandini-mishra-305019320)
