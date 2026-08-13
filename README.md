@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Cartoon Coding Girl Header -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding/girl-coding.gif" width="100%" />
+<!-- Reliable Animated Coding Girl Header -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 <!-- Animated Tech Typing Banner -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00ccff&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Salesforce+Developer+in+the+making" />
@@ -58,6 +58,3 @@
 
 </div>
 
-
-
- 
