@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Wide Aesthetic Header Banner -->
@@ -13,8 +12,10 @@
 
 <!-- Pink Animated Typing Effect Center Aligned -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&vCenter=true&center=true&random=false&width=500&lines=Welcome+to+my+digital+space! />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&vCenter=true&center=true&random=false&width=500&lines=Welcome+to+my+digital+space!;Full+Stack;AI+Enthusiast;Salesforce" />
 </p>
+
+---
 
 
 ### 💻 About Me
