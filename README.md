@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Animated Header: "Capsule Render" with a tech-themed style -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:303030,100:00ccff&height=220&section=header&text=Hello%20World!%20I'm%20Nandini&fontSize=50&animation=twinkling&fontColor=ffffff" />
-</p>
+<!-- Animated Cartoon Coding Girl Header -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding/girl-coding.gif" width="100%" />
 
-<!-- Animated Tech Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00ccff&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;AI+Automation+Enthusiast;Salesforce+Developer+in+the+making" />
+<!-- Animated Tech Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00ccff&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Salesforce+Developer+in+the+making" />
 
 ---
 
@@ -54,10 +52,12 @@
 </p>
 
 <br>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4Znh4b3h4b3h4b3h4b3h4b3h4b3h4b3h4b3h4b3h&rid=giphy.gif" width="100"/>
-</p>
+<div align="center">
+  <sub>✨ Crafted with precision by Nandini ✨</sub>
+</div>
 
 </div>
 
 
+
+ 
