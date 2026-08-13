@@ -3,17 +3,19 @@
 <!-- Wide Aesthetic Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=Nandini%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%203rd%20Year%20Student%20|%20Full%20Stack%20&%20AI%20Enthusiast&descSize=18&descAlignY=55" width="100%" />
 
-<br>
-
-<!-- Cute Coding Companion GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
-
 <br><br>
 
 <!-- Pink Animated Typing Effect Center Aligned -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&vCenter=true&center=true&random=false&width=500&lines=Welcome+to+my+digital+space!" />
 </p>
+
+<br>
+
+<!-- Cute Coding Companion GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+
+<br><br>
 
 ---
 
