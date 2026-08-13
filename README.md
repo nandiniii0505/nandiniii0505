@@ -1,16 +1,18 @@
+
 <div align="center">
 
-<!-- Aesthetic Retro Coding GIF -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420" />
+<!-- Wide Aesthetic Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=Nandini%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%203rd%20Year%20Student%20|%20Full%20Stack%20&%20AI%20Enthusiast&descSize=18&descAlignY=55" width="100%" />
+
+<br>
+
+<!-- Cute Coding Companion GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 
 <br><br>
 
-<!-- Top Banner with Name and B.Tech Student Typing Effect -->
-# Hi, I'm Nandini Mishra 👋
+### ✨ Welcome to my digital space! ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&vCenter=true&center=true&random=false&width=500&lines=B.Tech+3rd+Year+Student;Full+Stack+Developer;AI+Enthusiast;Salesforce+Developer" />
-
----
 
 ### 💻 About Me
 * 🎓 **Education**: B.Tech 3rd Year @ Siksha 'O' Anusandhan University, Odisha
