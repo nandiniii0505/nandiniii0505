@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Compact Cute Coding Girl Header with Pink Vibe -->
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-engineer-bro.svg" width="380" />
+<!-- 100% Working Cute Animated Girl Header -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
+
+<br><br>
 
 ### ✨ Hi, I'm Nandini! | Full Stack & AI Enthusiast ✨
 
@@ -52,3 +54,4 @@
 </div>
 
 
+    
