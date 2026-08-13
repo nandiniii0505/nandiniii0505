@@ -2,7 +2,6 @@
 
 <!-- Wide Aesthetic Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=200&section=header&text=Nandini%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%203rd%20Year%20Student%20|%20Full%20Stack%20&%20AI%20Enthusiast&descSize=18&descAlignY=55" width="100%" />
-
 <br><br>
 <!-- Pink Animated Typing Effect (Looping Enabled) -->
 <p align="center">
