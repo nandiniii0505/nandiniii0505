@@ -1,10 +1,9 @@
 <div align="center">
 
-<!-- Cute Aesthetic Pink-Themed Coding Girl Header -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/coding.gif" width="450" />
+<!-- 100% Stable & Working Aesthetic Coding Girl GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
 
 <br><br>
-
 ### ✨ Hi, I'm Nandini! | Full Stack & AI Enthusiast ✨
 
 <p align="center">
