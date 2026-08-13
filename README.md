@@ -1,13 +1,15 @@
 <div align="center">
 
-<!-- 100% Working Cute Animated Girl Header -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
+<!-- Cute Aesthetic Pink-Themed Coding Girl Header -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/coding.gif" width="450" />
 
 <br><br>
 
 ### ✨ Hi, I'm Nandini! | Full Stack & AI Enthusiast ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&vCenter=true&random=false&width=400&lines=Full+Stack+Developer;AI+Enthusiast;Salesforce+Developer" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&vCenter=true&center=true&random=false&width=450&lines=Full+Stack+Developer;AI+Enthusiast;Salesforce+Developer" />
+</p>
 
 ---
 
@@ -36,7 +38,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandiniii0505&show_icons=true&hide_border=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandiniii0505&show_icons=true&hide_border=true&theme=tokyonight" alt="Stats" />
 </p>
 
 ---
