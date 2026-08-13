@@ -5,8 +5,10 @@
 
 <br><br>
 
-### ✨ Hi, I'm Nandini! ✨
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&vCenter=true&center=true&random=false&width=450&lines=Full+Stack+Developer;AI+Enthusiast;Salesforce+Developer" />
+<!-- Top Banner with Name and B.Tech Student Typing Effect -->
+# Hi, I'm Nandini Mishra 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=FF69B4&vCenter=true&center=true&random=false&width=500&lines=B.Tech+3rd+Year+Student;Full+Stack+Developer;AI+Enthusiast;Salesforce+Developer" />
 
 ---
 
